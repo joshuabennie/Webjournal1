@@ -6,8 +6,8 @@ p{
 }
 button{
     height: 40px;
-    background-color: rgba(0, 110, 253, 0.514);
-    color: rgb(245, 234, 76);
+    background-color: darkgreen;
+    color: white;
 }
 .container{
     display: flex;
